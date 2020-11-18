@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>1902d3292f60601006472aa62799b6f2</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <orientation>horizontal</orientation>
+        <required_roles>public</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-18 07:00:40</sys_created_on>
+        <sys_id>b50217292f60601006472aa62799b66d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping Item</sys_name>
+        <sys_package display_value="Shopping List" source="x_549089_shopping">2e7d8b2d2f20601006472aa62799b61e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">2e7d8b2d2f20601006472aa62799b61e</sys_scope>
+        <sys_update_name>sys_sg_icon_section_b50217292f60601006472aa62799b66d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-18 07:00:40</sys_updated_on>
+        <table/>
+        <title>Shopping Item</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>
